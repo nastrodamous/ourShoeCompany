@@ -1,0 +1,39 @@
+.header {
+    padding: 10%;
+    background: url(img/texture-wall.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.middle {
+    background-color: #B19D9A;
+    padding: 10%;
+}
+
+.middle h1 {
+    font-size: 500%;
+}
+
+.middle .card {
+    margin: 10%
+}
+
+.article {
+    padding: 10%;
+    background-color: #F2C9B5;
+}
+
+.article h2 {
+    font-size: 500%;
+
+}
+
+.article p {
+    font-size: 150%;
+    margin: 10%;
+}
+
+.row {
+    justify-content: center;
+    justify-content: space-around;
+
+}
